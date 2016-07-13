@@ -1,0 +1,6 @@
+c:\users\aristoteles\documents\visual studio 2013\Projects\CursoConsole\CursoConsoleApplication\bin\Debug\CursoConsoleApplication.exe.config
+c:\users\aristoteles\documents\visual studio 2013\Projects\CursoConsole\CursoConsoleApplication\bin\Debug\CursoConsoleApplication.exe
+c:\users\aristoteles\documents\visual studio 2013\Projects\CursoConsole\CursoConsoleApplication\bin\Debug\CursoConsoleApplication.pdb
+c:\users\aristoteles\documents\visual studio 2013\Projects\CursoConsole\CursoConsoleApplication\obj\Debug\CursoConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\aristoteles\documents\visual studio 2013\Projects\CursoConsole\CursoConsoleApplication\obj\Debug\CursoConsoleApplication.exe
+c:\users\aristoteles\documents\visual studio 2013\Projects\CursoConsole\CursoConsoleApplication\obj\Debug\CursoConsoleApplication.pdb
